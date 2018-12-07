@@ -1,6 +1,7 @@
 
 #input handler
 def handle_keys(user_input):
+    
     # movement keys
     if user_input.key == 'UP':
         return {'move': (0, -1)}
