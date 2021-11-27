@@ -1,3 +1,3 @@
 # Roguelike
 
-Simple roguelike videogame with ASCII graphics and randomly generated maps.
+Simple roguelike game with ASCII graphics and randomly generated maps.
